@@ -5,7 +5,5 @@ Clase 1
 Primera Clase
 
 
-# Nombre: Martin Macció
-
-# Nombre: Anderson 
+# Nombre: Valentino Sara
 
