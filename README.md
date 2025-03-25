@@ -5,3 +5,5 @@ Clase 1
 Primera Clase
 
 # Nombre: Martin Glaser
+# Nombre: Martin Macció
+# Nombre: Anderson 
