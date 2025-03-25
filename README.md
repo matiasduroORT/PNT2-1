@@ -7,4 +7,5 @@ Primera Clase
 # Nombre: Martin Glaser
 # Nombre: Martin Macció
 # Nombre: Anderson 
+# Nombre: Matias Duro
 # Nombre: Diego
