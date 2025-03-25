@@ -8,3 +8,4 @@ Primera Clase
 # Nombre: Martin Macció
 # Nombre: Anderson 
 # Nombre: Matias Duro
+# Nombre: Diego
